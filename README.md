@@ -119,7 +119,7 @@ There is so far no order to the list regarding importance.
   - [ ] Other related data?
 - [ ] Move DATA from LH to TSD
 - [ ] Move address files from LH to TSD
-- [ ] Descide on database for all data
+- [ ] Decide on database for all data
   - [ ] implement structure
 - [ ] OCR on scanned protocols
 ---
