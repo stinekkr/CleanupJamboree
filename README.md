@@ -50,6 +50,7 @@ There is so far no order to the list regarding importance.
 - [ ] Scan remamining protocols 
   - [ ] *NDev* (**Knut**)  
   - [ ] *NCP* (**May**/**Dani**)  
+  - [ ] *Loci*
 - [ ] Bottom drawer in RA's office (Reg drawer)  (then archive)
 ---
 
