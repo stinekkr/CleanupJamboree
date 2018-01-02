@@ -15,28 +15,28 @@ There is so far no order to the list regarding importance.
 ---
 
 ## Punching / Scoring  
-- [ ] Go through MemP_w3_current.sav file and scanned protocols and punch missing data
-- [ ] Punch remaining MemP w3 questionnaires
-- [ ] Score, scan and punch delayed memory (with date) from MemP W2
-- [ ] RePunch MemC w1
+- [ ] Go through *MemP_w3_current.sav* file and scanned protocols and punch missing data
+- [ ] Punch remaining *MemP w3* questionnaires
+- [ ] Score, scan and punch delayed memory (with date) from *MemP W2*
+- [ ] RePunch *MemC w1*
 - [ ] Reys Scoring
-- [ ] Scan, punch, and archive bottom drawer in RA's office (Reg drawer)  
+- [ ] Bottom drawer in RA's office (Reg drawer)  
 - [ ] Punch SES data across all projects (coordinate with Martine)
-  - [ ] NDev
+  - [ ] *NDev*
     - [ ] W1
     - [ ] W2
     - [ ] W3
-  - [ ] MemP (**Martine all 3 waves**)
+  - [ ] *MemP* (**Martine all 3 waves**)
     - [ ] W1
     - [ ] W2
     - [ ] W3
-  - [ ] NCP
-  - [ ] MoBa
+  - [ ] *NCP*
+  - [ ] *MoBa*
     - [ ] W1
     - [ ] W2
-  - [ ] MemC
+  - [ ] *MemC*
     - [ ] W1
-- [ ] Go through MOAS Error flags
+- [ ] Go through *MOAS* Error flags
   - [ ] Check if error ranges are correct
   - [ ] Edit errors flagged in original files
 ---
@@ -44,8 +44,9 @@ There is so far no order to the list regarding importance.
 ## Scanning  
 - [ ] Scan remaining consents
 - [ ] Scan remamining protocols 
-  - [ ] NDev
+  - [ ] *NDev*
   - [ ] More?
+- [ ] Bottom drawer in RA's office (Reg drawer)  (then archive)
 ---
 
 ## Computerized experimental tasks
@@ -53,48 +54,85 @@ There is so far no order to the list regarding importance.
   - [ ] ANT
   - [ ] N-back
   - [ ] Anti-saccade
-  - [ ] ??
+  - [ ] other??
 ---
 
 ## Documentation  
 - [ ] Complete Test-versions overview
-- [ ] Compile address lists for all projects (For Lifebrain SES/GIS paper)
-  - [ ] NDev
+    - [ ] *NDev*
     - [ ] W1
     - [ ] W2
     - [ ] W3
-  - [ ] MemP
+  - [ ] *MemP*
     - [ ] W1
     - [ ] W2
     - [ ] W3
-  - [ ] NCP
-  - [ ] MoBa
+  - [ ] *NCP*
+  - [ ] *MoBa*
     - [ ] W1
     - [ ] W2
-  - [ ] Loci
+  - [ ] *Loci*
     - [ ] W1
     - [ ] W2
     - [ ] W3
-  - [ ] MemC
+  - [ ] *MemC*
     - [ ] W1
 - [ ] Check and finish Project_Documentation files.
-  - [ ] NDev
+  - [ ] *NDev*
     - [ ] W1
     - [ ] W2
     - [ ] W3
-  - [ ] MemP
+  - [ ] *MemP*
     - [ ] W1
     - [ ] W2
     - [ ] W3
-  - [ ] NCP
-  - [ ] MoBa
+  - [ ] *NCP*
+  - [ ] *MoBa*
     - [ ] W1
     - [ ] W2
-  - [ ] Loci
+  - [ ] *Loci*
     - [ ] W1
     - [ ] W2
     - [ ] W3
-  - [ ] MemC
+  - [ ] *MemC*
+    - [ ] W1
+- [ ] Compile address lists for all projects (For Lifebrain SES/GIS paper)
+  - [ ] *NDev*
+    - [ ] W1
+    - [ ] W2
+    - [ ] W3
+  - [ ] *MemP*
+    - [ ] W1
+    - [ ] W2
+    - [ ] W3
+  - [ ] *NCP*
+  - [ ] *MoBa*
+    - [ ] W1
+    - [ ] W2
+  - [ ] *Loci*
+    - [ ] W1
+    - [ ] W2
+    - [ ] W3
+  - [ ] *MemC*
+    - [ ] W1
+- [ ] Check and finish Project_Documentation files.
+  - [ ] *NDev*
+    - [ ] W1
+    - [ ] W2
+    - [ ] W3
+  - [ ] *MemP*
+    - [ ] W1
+    - [ ] W2
+    - [ ] W3
+  - [ ] *NCP*
+  - [ ] *MoBa*
+    - [ ] W1
+    - [ ] W2
+  - [ ] *Loci*
+    - [ ] W1
+    - [ ] W2
+    - [ ] W3
+  - [ ] *MemC*
     - [ ] W1
 ---
 
