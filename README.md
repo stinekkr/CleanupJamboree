@@ -140,7 +140,7 @@ There is so far no order to the list regarding importance.
 - [ ] Implement BIDS on TSD
   - [ ] MRI
   - [ ] EEG data
-    -[ ] ERP data experiment files
+    - [ ] ERP data experiment files
   - [ ] Behavioural data
   - [ ] PET
   - [ ] Other related data?
