@@ -17,12 +17,12 @@ There is so far no order to the list regarding importance.
 ## Punching / Scoring  
 - [ ] Go through *MemP_w3_current.sav* file and scanned protocols and punch missing data (**Kjersti**)
 - [ ] Punch remaining *MemP w3* questionnaires ()
-- [ ] Score, scan and punch delayed memory (with date) from *MemP W2* (Line/Hedda)
-- [ ] RePunch *MemC w1* (Dani)
-- [ ] Reys Scoring (Line/Hedda)
+- [ ] Score, scan and punch delayed memory (with date) from *MemP W2* (**Line/Hedda**)
+- [ ] RePunch *MemC w1* (**Dani**)
+- [ ] Reys Scoring (**Line/Hedda**)
 - [ ] Bottom drawer in RA's office (Reg drawer)  
-- [ ] Punch SES data across all projects (coordinate with Martine)
-  - [ ] *NDev* (Mo/Stine D)
+- [ ] Punch SES data across all projects (coordinate with **Martine**)
+  - [ ] *NDev* (**Mo/Stine D**)
     - [ ] W1
     - [ ] W2
     - [ ] W3
@@ -31,10 +31,10 @@ There is so far no order to the list regarding importance.
     - [ ] W2
     - [ ] W3
   - [ ] *NCP*
-  - [ ] *MoBa* (Stine K / Mo se på det)
+  - [ ] *MoBa* (**Stine K / Mo** se på det)
     - [ ] W1
     - [ ] W2
-  - [ ] *MemC* (Dani)
+  - [ ] *MemC* (**Dani**)
     - [ ] W1
 - [ ] Go through *MOAS* Error flags
   - [ ] Check if error ranges are correct
