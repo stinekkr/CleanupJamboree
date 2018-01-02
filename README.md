@@ -64,7 +64,7 @@ There is so far no order to the list regarding importance.
 ---
 
 ## Documentation  
-- [ ] Check and complete Test-versions overview
+- [ ] Check and complete Test-versions overview (_Projects/Cross_projects/MOAS/Documentation/Project_TestVersions.xlsx_)
   - [ ] *NDev* (**Knut**)
     - [ ] W1
     - [ ] W2
@@ -84,7 +84,7 @@ There is so far no order to the list regarding importance.
     - [ ] W3
   - [ ] *MemC* (**Espen**/**Anders**)
     - [ ] W1
-- [ ] Check and complete Project_Documentation files.
+- [ ] Check and complete Project_Documentation files (_Projects/Cross_projects/MOAS/Documentation/Project_docs/_)
   - [ ] *NDev* (**Knut**)
     - [ ] W1
     - [ ] W2
