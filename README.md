@@ -84,23 +84,24 @@ There is so far no order to the list regarding importance.
   - [ ] *MemC* (**Espen**/**Anders**)
     - [ ] W1
 - [ ] Check and complete Project_Documentation files.
-  - [ ] *NDev*
+  - [ ] *NDev* (**Knut**)
     - [ ] W1
     - [ ] W2
     - [ ] W3
-  - [ ] *MemP*
+  - [ ] *MemP* (**Line**)
     - [ ] W1
     - [ ] W2
     - [ ] W3
-  - [ ] *NCP*
-  - [ ] *MoBa*
+  - [ ] *NCP* (**AC**)
+  - [ ] *MoBa* (**Stine K**)
     - [ ] W1
     - [ ] W2
-  - [ ] *Loci*
+    - [ ] W3 
+  - [ ] *Loci* (**Mo** / **Kristine**)
     - [ ] W1
     - [ ] W2
     - [ ] W3
-  - [ ] *MemC*
+  - [ ] *MemC* (**Espen**/**Anders**)
     - [ ] W1
 - [ ] Compile address lists for all projects (For Lifebrain SES/GIS paper) (**Barbara**)
   - [ ] *NDev*
