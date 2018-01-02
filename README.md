@@ -82,8 +82,8 @@ There is so far no order to the list regarding importance.
     - [ ] W1
     - [ ] W2
     - [ ] W3
-  - [ ] *MemC* (**Espen**/**Anders**)
-    - [ ] W1
+  - [x] *MemC* (**Mo**/**Anders**)
+    - [x] W1
 - [ ] Check and complete Project_Documentation files (_Projects/Cross_projects/MOAS/Documentation/Project_docs/_)
   - [ ] *NDev* (**Knut**)
     - [ ] W1
