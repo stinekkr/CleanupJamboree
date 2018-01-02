@@ -43,13 +43,13 @@ There is so far no order to the list regarding importance.
 
 ## Scanning  
 - [ ] Scan remaining consents  
-  -[] NDev
-  -[] MemC (**Petter**)
-  -[] Loci (**May**)
-  -[] NCP (Check om scannet: **AC**)
+  - [ ] NDev  
+  - [ ] MemC (**Petter**)  
+  - [ ] Loci (**May**)  
+  - [ ] NCP (Check om scannet: **AC**)  
 - [ ] Scan remamining protocols 
-  - [ ] *NDev* (**Knut**)
-  - [ ] *NCP* (**May**/**Dani**)
+  - [ ] *NDev* (**Knut**)  
+  - [ ] *NCP* (**May**/**Dani**)  
 - [ ] Bottom drawer in RA's office (Reg drawer)  (then archive)
 ---
 
@@ -138,7 +138,7 @@ There is so far no order to the list regarding importance.
 - [ ] Implement BIDS on TSD
   - [ ] MRI
   - [ ] EEG data
-    -[] ERP data experiment files
+    -[ ] ERP data experiment files
   - [ ] Behavioural data
   - [ ] PET
   - [ ] Other related data?
