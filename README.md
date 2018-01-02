@@ -58,8 +58,8 @@ There is so far no order to the list regarding importance.
 ---
 
 ## Documentation  
-- [ ] Complete Test-versions overview
-    - [ ] *NDev*
+- [ ] Check and complete Test-versions overview
+  - [ ] *NDev*
     - [ ] W1
     - [ ] W2
     - [ ] W3
@@ -77,7 +77,7 @@ There is so far no order to the list regarding importance.
     - [ ] W3
   - [ ] *MemC*
     - [ ] W1
-- [ ] Check and finish Project_Documentation files.
+- [ ] Check and complete Project_Documentation files.
   - [ ] *NDev*
     - [ ] W1
     - [ ] W2
@@ -115,27 +115,7 @@ There is so far no order to the list regarding importance.
     - [ ] W3
   - [ ] *MemC*
     - [ ] W1
-- [ ] Check and finish Project_Documentation files.
-  - [ ] *NDev*
-    - [ ] W1
-    - [ ] W2
-    - [ ] W3
-  - [ ] *MemP*
-    - [ ] W1
-    - [ ] W2
-    - [ ] W3
-  - [ ] *NCP*
-  - [ ] *MoBa*
-    - [ ] W1
-    - [ ] W2
-  - [ ] *Loci*
-    - [ ] W1
-    - [ ] W2
-    - [ ] W3
-  - [ ] *MemC*
-    - [ ] W1
 ---
-
 
 ## Imaging
 - [ ] MC paradigm
