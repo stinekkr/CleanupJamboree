@@ -15,14 +15,14 @@ There is so far no order to the list regarding importance.
 ---
 
 ## Punching / Scoring  
-- [ ] Go through *MemP_w3_current.sav* file and scanned protocols and punch missing data
-- [ ] Punch remaining *MemP w3* questionnaires
-- [ ] Score, scan and punch delayed memory (with date) from *MemP W2*
-- [ ] RePunch *MemC w1*
-- [ ] Reys Scoring
+- [ ] Go through *MemP_w3_current.sav* file and scanned protocols and punch missing data (**Kjersti**)
+- [ ] Punch remaining *MemP w3* questionnaires ()
+- [ ] Score, scan and punch delayed memory (with date) from *MemP W2* (Line/Hedda)
+- [ ] RePunch *MemC w1* (Dani)
+- [ ] Reys Scoring (Line/Hedda)
 - [ ] Bottom drawer in RA's office (Reg drawer)  
 - [ ] Punch SES data across all projects (coordinate with Martine)
-  - [ ] *NDev*
+  - [ ] *NDev* (Mo/Stine D)
     - [ ] W1
     - [ ] W2
     - [ ] W3
@@ -31,10 +31,10 @@ There is so far no order to the list regarding importance.
     - [ ] W2
     - [ ] W3
   - [ ] *NCP*
-  - [ ] *MoBa*
+  - [ ] *MoBa* (Stine K / Mo se på det)
     - [ ] W1
     - [ ] W2
-  - [ ] *MemC*
+  - [ ] *MemC* (Dani)
     - [ ] W1
 - [ ] Go through *MOAS* Error flags
   - [ ] Check if error ranges are correct
@@ -42,16 +42,21 @@ There is so far no order to the list regarding importance.
 ---
 
 ## Scanning  
-- [ ] Scan remaining consents
+- [ ] Scan remaining consents  
+  -[] NDev
+  -[] MemC (**Petter**)
+  -[] Loci (**May**)
+  -[] NCP (Check om scannet: **AC**)
 - [ ] Scan remamining protocols 
-  - [ ] *NDev*
-  - [ ] More?
+  - [ ] *NDev* (**Knut**)
+  - [ ] *NCP* (**May**/**Dani**)
 - [ ] Bottom drawer in RA's office (Reg drawer)  (then archive)
 ---
 
 ## Computerized experimental tasks
-- [ ] Clean and check output files from computerized tasks
-  - [ ] ANT
+- [ ] Clean and check output files from computerized tasks (**James** )
+  - [ ] fMRI MC (**Line**/**Hedda**) 
+  - [ ] ANT (**Didac?**)
   - [ ] N-back
   - [ ] Anti-saccade
   - [ ] other??
@@ -59,23 +64,24 @@ There is so far no order to the list regarding importance.
 
 ## Documentation  
 - [ ] Check and complete Test-versions overview
-  - [ ] *NDev*
+  - [ ] *NDev* (**Knut**)
     - [ ] W1
     - [ ] W2
     - [ ] W3
-  - [ ] *MemP*
+  - [ ] *MemP* (**Line**)
     - [ ] W1
     - [ ] W2
     - [ ] W3
-  - [ ] *NCP*
-  - [ ] *MoBa*
+  - [ ] *NCP* (**AC**)
+  - [ ] *MoBa* (**Stine K**)
     - [ ] W1
     - [ ] W2
-  - [ ] *Loci*
+    - [ ] W3 
+  - [ ] *Loci* (**Mo** / **Kristine**)
     - [ ] W1
     - [ ] W2
     - [ ] W3
-  - [ ] *MemC*
+  - [ ] *MemC* (**Espen**/**Anders**)
     - [ ] W1
 - [ ] Check and complete Project_Documentation files.
   - [ ] *NDev*
@@ -96,7 +102,7 @@ There is so far no order to the list regarding importance.
     - [ ] W3
   - [ ] *MemC*
     - [ ] W1
-- [ ] Compile address lists for all projects (For Lifebrain SES/GIS paper)
+- [ ] Compile address lists for all projects (For Lifebrain SES/GIS paper) (**Barbara**)
   - [ ] *NDev*
     - [ ] W1
     - [ ] W2
@@ -119,12 +125,12 @@ There is so far no order to the list regarding importance.
 
 ## Imaging
 - [ ] MC paradigm
-  - [ ] QC each participant
+  - [ ] QC each participant (**Markus makes overview**)
     - [ ] coreg func-struct
     - [ ] labels
     - [ ] Hippocampus split
     - [ ] Motion Parameters
-  - [ ] Re-test phanse needs cleanup, merging and triplets
+  - [ ] Re-test phanse needs cleanup, merging and triplets (**Line**/**Hedda**)
 - [ ] Recon checks on a sample of older participants
 ---
 
