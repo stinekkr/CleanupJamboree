@@ -51,20 +51,19 @@ There is so far no order to the list regarding importance.
   - [ ] *NDev* (**Knut**)  
   - [ ] *NCP* (**May**/**Dani**)  
   - [ ] *Loci*
-- [ ] Bottom drawer in RA's office (Reg drawer)  (then archive)
-  - [x] scanned Loci consents
-  - [ ] archive loci consents
-  - [x] scan hukw2 consents
-  - [ ] archive hukw2 consents
-  - [x] scan mc reginterviws
-  - [ ] archive mc reginterviews
-  - [ ] archive memp3 reginterviews
-  - [ ] anonymisr mempw2 reg interviews
-  - [ ] scsn the above
-  - [ ] archive the above
-  - [ ] orgsnisr, anonynimse and archive ndev stuff
-  - [ ] anonymise, scan, punch and archive loci reginterview
-  
+- [ ] Bottom drawer in RA's office (Reg drawer)  (then archive)  
+  - [x] scanned Loci consents  
+  - [ ] archive loci consents  
+  - [x] scan hukw2 consents  
+  - [ ] archive hukw2 consents  
+  - [x] scan mc reginterviws  
+  - [ ] archive mc reginterviews  
+  - [ ] archive memp3 reginterviews  
+  - [ ] anonymisr mempw2 reg interviews  
+  - [ ] scsn the above  
+  - [ ] archive the above  
+  - [ ] orgsnisr, anonynimse and archive ndev stuff  
+  - [ ] anonymise, scan, punch and archive loci reginterview  
 ---
 
 ## Computerized experimental tasks
