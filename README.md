@@ -73,7 +73,7 @@ There is so far no order to the list regarding importance.
   - [ ] MemC
     - [x] scan reginterviews  (**Mo**)
     - [ ] archive reginterviews  
-  - NDev (small number of assorted papers)
+  - [ ] NDev (small number of assorted papers)
     - [ ] Organise
     - [ ] Anonymise
     - [ ] Scan
