@@ -164,7 +164,7 @@ There is so far no order to the list regarding importance.
 
 ## Data organization
 - [ ] Implement BIDS on TSD
-  - [ ] MRI (*Inge*)
+  - [ ] MRI (**Inge**)
   - [ ] EEG data
     - [ ] ERP data experiment files
   - [ ] Behavioural data
