@@ -101,9 +101,9 @@ There is so far no order to the list regarding importance.
     - [ ] W3
   - [ ] *NCP* (**AC**)
   - [ ] *MoBa* (**Stine K**)
-    - [ ] W1
-    - [ ] W2
-    - [ ] W3 
+    - [x] W1
+    - [x] W2
+    - [x] W3 
   - [ ] *Loci* (**Mo** / **Kristine**)
     - [ ] W1
     - [ ] W2
@@ -112,9 +112,9 @@ There is so far no order to the list regarding importance.
     - [x] W1
 - [ ] Check and complete Project_Documentation files (_Projects/Cross_projects/MOAS/Documentation/Project_docs/_)
   - [ ] *NDev* (**Knut**)
-    - [ ] W1
-    - [ ] W2
-    - [ ] W3
+    - [x] W1
+    - [x] W2
+    - [x] W3
   - [ ] *MemP* (**Line**)
     - [ ] W1
     - [ ] W2
